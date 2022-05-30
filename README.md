@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Templatta
-- 👀 I’m interested in Product Design
-- 🌱 I’m currently learning a lot of stuff!
+- 👋 Hi, I’m @BearOnTheSnow
+- 👀 I’m interested in Computer Science and Digital Product Design
