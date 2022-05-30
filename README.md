@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @BearOnTheSnow
-- 👀 I’m interested in Computer Science and Digital Product Design
+- 👀 Find all the projects I made for the EdX's CS50 course
